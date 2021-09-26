@@ -7,7 +7,9 @@
 - ⚡ planning to learn Flutter
 ### Connect with me:
 -[Facebook](https://www.facebook.com/profile.php?id=100009516514631)
--[Telegram](@Kymyshbek)
+
+-[Telegram](https://t.me/Kymyshbek)
+
 -[Instagram](https://www.instagram.com/zamirbekov.kumushbek/)
 
 
