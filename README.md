@@ -1,13 +1,14 @@
 ### Hi there 👋 I'm Kymko
 
 ## I'm Android Developer
+- 💪 I like to write code
+- 🌱 I’m currently learning Kotlin
+- 🌱 planning to learn Flutter
+- 🥅 I am constantly learning new things
+### Connect with me:
+[Facebook] (https://www.facebook.com/profile.php?id=100009516514631)
+[Telegram] (@Kymyshbek)
+[Instagram] (https://www.instagram.com/zamirbekov.kumushbek/)
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+# Check out my repos ⬇️
